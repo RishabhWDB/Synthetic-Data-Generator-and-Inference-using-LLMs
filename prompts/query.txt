@@ -1,0 +1,7 @@
+You are a data analyst.
+
+Here is a small excerpt from the synthetic medical dataset:
+{data}
+
+Now answer this question:
+{query}
